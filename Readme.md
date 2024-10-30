@@ -16,6 +16,10 @@
 ---
 # In JS we have three method of object:
 1. Object.entries( ) - is a method that returns an array of a given object's own enumerable string-keyed property [key, value] pairs. This can be very useful for iterating over objects or converting them into other data structures.
+![p2](Snap-1.png)
 2. Object.keys( ) - is a method that returns an array of a given object's own enumerable property names (keys). This is useful for iterating over the properties of an object or for performing operations based on the keys.
+![p3](Snap-2.png)
 3. Object.values( ) - is a method that returns an array of a given object's own enumerable property values. This is useful for retrieving all the values stored in an object without needing to access them by their keys.
 ![p4](Snap-3.png)
+---
+![end](https://i.pinimg.com/originals/59/63/57/59635742174a5cb7d5583911b70cab31.gif)
